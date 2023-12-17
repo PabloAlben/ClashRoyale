@@ -31,3 +31,13 @@ En Clash Royale, **los jugadores se clasifican según su número de trofeos**. L
 | legendaria| 11       |
 | campeon   | 11       |
 
+
+## DESCARGAR
+
+[pulsa aqui para descargar el juego](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=es&gl=US&pli=1)
+
+
+## MAESTRIAS
+
+En la actualización de marzo de 2022 se agregó el sistema de maestrías el cual **ofrece buenas recompensas al cumplir con ciertas tareas**. Se desbloquean a partir del nivel 7 y para desbloquear el dominio de cartas de cada una de las cartas del juego es necesario ganar 5 partidas con cada una, así como tenerlas a cierto nivel (7 en las comunes, 8 en las especiales, 9 en las épicas, 10 en las legendarias y 12 en los campeones) para poder acceder a las misiones de dominio de cartas. Una vez logrado esto, habrán dos conjuntos de tareas, uno simple y otro más complejo, los cuales a su vez se dividen en 3 niveles de tareas (algunas cartas ya cuentan con 3 conjuntos de tareas). **Dependiendo el tipo de carta y los bloques completados se irán obteniendo mejores recompensas**, así como un emblema que irá mejorando conforme a los niveles de dominio superados. En las cartas de dos bloques de tareas, el nivel máximo es el 7, mientras que en las de tres, el nivel máximo es el 10. Cabe recalcar que al cumplir las tareas también se te otorgará experiencia para subir el nivel del Rey, excepto cuando ya se tiene el nivel 14.
+
